@@ -38,6 +38,8 @@ export default {
             label: "Button Submit"
           }
         ]}
+        //{value: "Inner Component", id: "radio-1", children: []},
+        //{value: "Radio B", id: "radio-2", children: []}
       ]
     }
   }
