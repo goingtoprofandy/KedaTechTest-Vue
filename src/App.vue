@@ -28,7 +28,7 @@ export default {
             type: "FieldEditDate",
             id: "field-edit-date-1",
             name: "fieldEditDate1",
-            label: "Choose Date"
+            label: "Choose A Date"
           }
         ]},
         {value: "Radio B", id: "radio-2", children: [
